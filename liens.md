@@ -15,4 +15,6 @@ https://github.com/Shivaeru
 ## Romain :
 https://github.com/Romainjava
 
+## Eric : 
+https://github.com/EricJahan
 
